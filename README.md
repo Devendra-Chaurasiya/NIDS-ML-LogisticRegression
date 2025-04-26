@@ -106,12 +106,6 @@ Feel free to fork this repo, suggest improvements, and submit pull requests!
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 🏷️ Tags
 
 `NIDS` `Machine Learning` `Logistic Regression` `CICIDS2017` `Cybersecurity` `Intrusion Detection`
